@@ -1,0 +1,2 @@
+# Clase_corte42_sistema_control_version
+Vamos aprender
